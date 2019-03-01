@@ -11,7 +11,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="293" />
     <option name="y" value="43" />
     <option name="width" value="1055" />
@@ -29,6 +29,11 @@
             <path>
               <item name="unymage" type="b2602c69:ProjectViewProjectNode" />
               <item name="unymage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="unymage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="unymage" type="462c0819:PsiDirectoryNode" />
+              <item name="Jemepresente" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -63,12 +68,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1551400498455</updated>
-      <workItem from="1551400512986" duration="231000" />
+      <workItem from="1551400512986" duration="487000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="231000" />
+    <option name="totallyTimeSpent" value="487000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="293" y="43" width="1055" height="496" extended-state="0" />
