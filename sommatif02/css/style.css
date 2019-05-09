@@ -1,0 +1,33 @@
+html,body{
+    margin:0;
+    height: 100%;
+}
+
+
+.carreJaune {
+    background-color: rgba(225,247,0,.5);
+   color: purple;
+}
+
+
+.parallaxinvest03 {
+    background-image: url("../img/invest03.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallaxinvest02 {
+    background-image: url("../img/invest02.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.p {
+font-size: 19px;
+    color: #1d2124;
+    text-align: justify;
+}
